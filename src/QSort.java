@@ -1,4 +1,4 @@
-public class QSort {
+﻿public class QSort {
     static void qicksort (char items[]){
         qs (items, 0, items.length-1);
     }
@@ -27,7 +27,7 @@ public class QSort {
     }
 
     public static void main (String args []){
-        char a[]={'d','x','a','r','p','j','i'};
+        char a[]={'d','x','a','r','p','j','o'};
         int i;
 
         System.out.print("Исходный массив: ");
